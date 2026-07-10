@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**DasariAnilKumar/dasarianilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###############%%%%%%%%%%%%%%%%%%%%%%@#%%%%%%%
+############%%%%%%@%%%%@@@@%%%%%%%%@@@#%%%%%@@
+###########%%%%%%*=::::-=+*%%%%%%%@@@@#%%%@@@@
+##########%%%%*=.          :%@%%%%@@@@##%%@@@@         anil@dev
+#########%%%%=.    ..:::.   :#%%%%%@@@##%%@@@@         --------------------
+#########%%%%:    -=+***=-.  :%%%%%%@@##%%@@@@         OS: ..................... Human
+#########%%%%=   :==+***+=-: .%%%%%%@@##%%%%@@         Role: ................... Senior Software Engineer
+#######%%%%%%%- .=-::=*-:::-.+%%%%%%@@##@%%%@@         Focus: .................. Adobe Experience Manager (AEMaaCS)
+#######%%%%%%%#-=+++++*==+==-*%%%%%%%@##%%%%%%         Uptime: ................. 4 years in AEM
+#######%%%%%%%%%=+**+--:=*+=:+%%%%%%%@%#%%%%%%         Location: ............... Hyderabad, India
+######%%%%%%%%%%+-==:--::-=:.#%%%%%%%@%#%%%%%%         Kernel: ................. AEM as a Cloud Service
+######%%%%%%%%%%=:--++-==::.:%%%%%%%%%%#%%%%%%
+%######%%%%%%%%@%#-:......:=%%%%%%%%%%%#%%%%%%         Languages.Backend: ...... Java, OSGi, Sling Models, HTL
+######%%%%%@@%#*=-+====--===+:-*#%@@@%%#%%%%%%         Languages.Frontend: ..... HTL, SCSS, JavaScript (EDS blocks)
+#####%%%@%*=-.    -=+***+++=:    :=*%@%#%%%%%%         Integrations: ........... MuleSoft, SFMC, SAML SSO
+%####%%#-.          .:--::.         .-##%%%%%%         Infra: .................. Cloud Manager CI/CD, Dispatcher
+%###%%#.                               =%#%%%%
+####%%:                                 +%%%%#         Cert: ................... Adobe Certified AEM Sites Developer
+*###%*                                   *%%##
+*###%-                 ....              .#%##         Hobbies.Software: ....... Claude Code, GitHub MCP automation, DSA (Java), self-hosted AEM sandbox
+###%#                                     -%##         Hobbies.Real: ........... Gym, Chess, True Crime
+%##%+                                      +##         
+%%#%=                                      .##
+                                                       --------------------
