@@ -6,7 +6,7 @@
 #########%%%%:    -=+***=-.  :%%%%%%@@##%%@@@@         OS: ..................... Human
 #########%%%%=   :==+***+=-: .%%%%%%@@##%%%%@@         Role: ................... Senior Software Engineer
 #######%%%%%%%- .=-::=*-:::-.+%%%%%%@@##@%%%@@         Focus: .................. Adobe Experience Manager (AEMaaCS)
-#######%%%%%%%#-=+++++*==+==-*%%%%%%%@##%%%%%%         Uptime: ................. 4 years in AEM
+#######%%%%%%%#-=+++++*==+==-*%%%%%%%@##%%%%%%         Uptime: ................. 3.6 years in AEM
 #######%%%%%%%%%=+**+--:=*+=:+%%%%%%%@%#%%%%%%         Location: ............... Hyderabad, India
 ######%%%%%%%%%%+-==:--::-=:.#%%%%%%%@%#%%%%%%         Kernel: ................. AEM as a Cloud Service
 ######%%%%%%%%%%=:--++-==::.:%%%%%%%%%%#%%%%%%
@@ -18,7 +18,7 @@
 ####%%:                                 +%%%%#         Cert: ................... Adobe Certified AEM Sites Developer
 *###%*                                   *%%##
 *###%-                 ....              .#%##         Hobbies.Software: ....... Claude Code, GitHub MCP automation, DSA (Java), self-hosted AEM sandbox
-###%#                                     -%##         Hobbies.Real: ........... Gym, Chess, True Crime
-%##%+                                      +##         
+###%#                                     -%##         Hobbies.Real: ........... Gym (PPL split), Chess, True Crime
+%##%+                                      +##         Currently: .............. Building personalization features & exploring EDS
 %%#%=                                      .##
-                                                       --------------------
+                                                          --------------------
